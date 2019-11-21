@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        This is the sample application deployed on AWS using ElasticBeanstalk
+        Hi Purushothama pendyala, hope you are having good day.
 	  </p>
         <a
           className="App-link"
